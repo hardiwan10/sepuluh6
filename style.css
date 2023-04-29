@@ -11,6 +11,10 @@ body {
   /* font-family: "Poppins", sans-serif; */
   font-family: "Overlock", cursive;
 }
+
+footer {
+  font-family: "Poppins", sans-serif;
+}
 /* section {
   padding-top: 3rem;
 } */
